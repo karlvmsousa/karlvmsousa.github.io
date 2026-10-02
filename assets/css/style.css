@@ -150,15 +150,6 @@ body {
   text-wrap: balance;
 }
 
-.experience {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.8rem;
-  color: var(--ink-soft);
-  line-height: 1.6;
-  margin: 0 0 1.2rem 0;
-  text-wrap: balance;
-}
-
 .rule {
   border: none;
   border-top: 1px solid var(--rule);
